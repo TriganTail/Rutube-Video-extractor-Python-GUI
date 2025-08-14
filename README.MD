@@ -39,6 +39,6 @@ MDGT-RUTUBE-SAVER — это приложение с графическим ин
 
 #### Beta-версия
 Доступна скомпилированная beta-версия для Windows (не требует установки Python):  
-[Скачать MDGT-RUTUBE-SAVER.exe](https://example.com/beta-download)  
+[Скачать MDGT-RUTUBE-SAVER.exe](https://github.com/TriganTail/Rutube-Video-extractor-Python-GUI/releases/tag/compile)  
 
 ---
